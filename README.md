@@ -1,1 +1,2 @@
-# Simple html5 responsive landing page
+# Landing Page
+Simple html5 responsive landing page
