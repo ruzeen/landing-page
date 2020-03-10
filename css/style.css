@@ -1,5 +1,5 @@
 :root {
-    --primary-bg: url('https://images.unsplash.com/photo-1505238680356-667803448bb6');
+    --primary-bg: url('../bg.png');
     --max-width: 960px;
 }
 
