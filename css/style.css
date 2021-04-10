@@ -88,3 +88,12 @@ p {
     background: #444;
     color: #fff;
 }
+
+/*Small Screens */
+
+@media (max-width: 600px) {
+    #showcase .content h1 {
+        font-size: 1.85rem;
+        margin-bottom: 3rem;
+    }
+}
