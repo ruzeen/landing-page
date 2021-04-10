@@ -89,8 +89,7 @@ p {
     color: #fff;
 }
 
-/*Small Screens */
-
+/* Small Screens */
 @media (max-width: 600px) {
     #showcase .content h1 {
         font-size: 1.85rem;
